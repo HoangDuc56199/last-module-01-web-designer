@@ -16,9 +16,14 @@ body {
 .add-radius {
   border-radius: 0 50px 50px 50px;
   background-color: white;
-  box-shadow: 2px 2px 2px black;
+  box-shadow: 2px 2px 4px black;
   padding: 20px;
 }
 .add-bgc {
   background-color: aqua;
+}
+.add-border {
+  box-shadow: 3px 3px 1px black;
+  background-color: white;
+  margin-bottom: 20px;
 }
