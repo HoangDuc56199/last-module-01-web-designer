@@ -1,16 +1,24 @@
+body {
+  background: linear-gradient(white, rgb(87, 255, 20));
+}
+.app {
+  max-width: 1200px;
+  width: 100%;
+  margin: 0 auto;
+}
 .text-center {
-    padding-top: 12px;
+  padding-top: 12px;
 }
 .add-css {
-    background-color: green;
-    color: white;
+  background-color: green;
+  color: white;
 }
 .add-radius {
-    border-radius: 0 50px 50px 50px;
-    background-color: white;
-    box-shadow: 2px 2px 2px black;
-    padding: 20px;
+  border-radius: 0 50px 50px 50px;
+  background-color: white;
+  box-shadow: 2px 2px 2px black;
+  padding: 20px;
 }
 .add-bgc {
-    background-color: aqua;
+  background-color: aqua;
 }
