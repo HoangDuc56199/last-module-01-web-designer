@@ -1,0 +1,16 @@
+.text-center {
+    padding-top: 12px;
+}
+.add-css {
+    background-color: green;
+    color: white;
+}
+.add-radius {
+    border-radius: 0 50px 50px 50px;
+    background-color: white;
+    box-shadow: 2px 2px 2px black;
+    padding: 20px;
+}
+.add-bgc {
+    background-color: aqua;
+}
